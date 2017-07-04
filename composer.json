@@ -1,5 +1,6 @@
 {
     "name": "wangqiang007/student",
+    "type":"project",
     "require": {
         "gregwar/captcha": "dev-master",
         "filp/whoops": "^2.0@dev",
